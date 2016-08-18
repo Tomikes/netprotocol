@@ -15,6 +15,7 @@
 		273DECA21D6143F2007DA123 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 273DECA01D6143F2007DA123 /* LaunchScreen.storyboard */; };
 		273DECAD1D6143F2007DA123 /* netprotocolTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 273DECAC1D6143F2007DA123 /* netprotocolTests.m */; };
 		273DECB81D6143F2007DA123 /* netprotocolUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 273DECB71D6143F2007DA123 /* netprotocolUITests.m */; };
+		273DECC61D614409007DA123 /* File in Resources */ = {isa = PBXBuildFile; fileRef = 273DECC51D614409007DA123 /* File */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		273DECB31D6143F2007DA123 /* netprotocolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = netprotocolUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		273DECB71D6143F2007DA123 /* netprotocolUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = netprotocolUITests.m; sourceTree = "<group>"; };
 		273DECB91D6143F2007DA123 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		273DECC51D614409007DA123 /* File */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = File; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				273DECA01D6143F2007DA123 /* LaunchScreen.storyboard */,
 				273DECA31D6143F2007DA123 /* Info.plist */,
 				273DEC921D6143F1007DA123 /* Supporting Files */,
+				273DECC51D614409007DA123 /* File */,
 			);
 			path = netprotocol;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				273DECC61D614409007DA123 /* File in Resources */,
 				273DECA21D6143F2007DA123 /* LaunchScreen.storyboard in Resources */,
 				273DEC9F1D6143F2007DA123 /* Assets.xcassets in Resources */,
 				273DEC9D1D6143F2007DA123 /* Main.storyboard in Resources */,
